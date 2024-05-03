@@ -1,2 +1,12 @@
 testando repositorio 
 2
+abstract class 
+
+oigusndiognsdfg
+jgnjn
+okndnva
+echo
+
+{
+    # code...
+}
