@@ -1,2 +1,5 @@
 Editando arquivo
 2
+diff
+de 
+arquivo
